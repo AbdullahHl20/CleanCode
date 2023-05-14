@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CleanCode
 {
-    public partial class Form1 : Form
+    public partial class MainDialog : Form
     {
-        public Form1()
+        public MainDialog()
         {
             InitializeComponent();
         }
